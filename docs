@@ -1,11 +1,12 @@
-docs/
-├─ en/
-│  ├─ index.md
-│  ├─ quickstart.md
-│  ├─ links.md
-│  └─ section-01_overview.md
-└─ pt/
-   ├─ index.md
-   ├─ guia-rapido.md
-   ├─ links.md
-   └─ secao-01_visao-geral.md
+---
+title: Language Selection
+---
+
+# 🌍 Project Daedalus
+
+Welcome! / Bem-vindo!
+
+**Choose your language / Escolha o idioma:**
+
+- 🇬🇧 [English version](en/index.md)
+- 🇧🇷 [Versão em português](pt/index.md)
