@@ -1,0 +1,11 @@
+docs/
+├─ en/
+│  ├─ index.md
+│  ├─ quickstart.md
+│  ├─ links.md
+│  └─ section-01_overview.md
+└─ pt/
+   ├─ index.md
+   ├─ guia-rapido.md
+   ├─ links.md
+   └─ secao-01_visao-geral.md
