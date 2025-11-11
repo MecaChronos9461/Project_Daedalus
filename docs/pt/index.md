@@ -19,7 +19,7 @@ Permite que estudantes cegos ou com baixa visão construam programas CNC utiliza
 4. Use os exemplos em [`/examples`](../../examples/) para a primeira aula  
 
 ## 🔗 Links Úteis
-- [Onshape (CAD paramétrico)](../links.md#onshape)
+- [Onshape (CAD paramétrico)](https://cad.onshape.com/documents/f621f9364d6d382a1512dc64/w/f1545546a1fff06d9537397c/e/68e42de75a9061a4f078c312)
 - [Tinkercad (modelos simplificados)](../links.md#tinkercad)
 - [Google Drive (manuais e PDFs)](../links.md#google-drive)
 
