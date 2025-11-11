@@ -1,8 +1,8 @@
-title: Project Daedalus
-description: Assistive Technology for Accessible CNC Education
-theme: just-the-docs
-logo: /assets/logo/logoMecaWhite.png
-search_enabled: true
-aux_links:
+title: Project Daedalus                      ✅ (título do site)
+description: Assistive Technology for Accessible CNC Education   ✅ (descrição visível nos metadados)
+theme: just-the-docs                        ✅ (tema correto e suportado)
+logo: /assets/logo/logoMecaWhite.png        ✅ (caminho válido, desde que o arquivo esteja nessa pasta)
+search_enabled: true                        ✅ (ativa o campo de busca no site)
+aux_links:                                  ✅ (adiciona links no topo direito)
   "GitHub Repository":
     - "https://github.com/MecaChronos9461/Project-Daedalus"
