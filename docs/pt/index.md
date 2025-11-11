@@ -14,9 +14,8 @@ Permite que estudantes cegos ou com baixa visão construam programas CNC utiliza
 
 ## 🧩 Guia Rápido
 1. Acesse o [Guia Rápido](guia-rapido.md)  
-2. Baixe e imprima as peças 3D da pasta [`/stl`](../../stl/)  
-3. Monte o **tabuleiro imantado e as peças em Braille** (veja [Montagem Mecânica](secao-06_montagem-mecanica.md))  
-4. Use os exemplos em [`/examples`](../../examples/) para a primeira aula  
+2. Baixe e imprima as peças 3D da pasta [`/stl`](https://drive.google.com/drive/u/0/folders/17rKae9Ocwfo4RXUzhV4-h_oCm1G7807P)  
+7. Monte o **tabuleiro imantado e as peças em Braille** (veja [Montagem Mecânica](secao-06_montagem-mecanica.md))  
 
 ## 🔗 Links Úteis
 - [Onshape (CAD paramétrico)](https://cad.onshape.com/documents/f621f9364d6d382a1512dc64/w/f1545546a1fff06d9537397c/e/68e42de75a9061a4f078c312)
