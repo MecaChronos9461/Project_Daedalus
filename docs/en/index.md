@@ -1,6 +1,6 @@
 # Project Daedalus – Assistive Technology for Accessible CNC Education
 
-**SENAI + FRC 9461 MecaChronos**
+**SENAI Vila Leopoldina + FRC 9461 MecaChronos**
 
 Inclusive CNC programming through tactile Braille pieces and a magnetic board.
 
