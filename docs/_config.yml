@@ -5,4 +5,4 @@ logo: /assets/logo/logoMecaWhite.png        ✅ (caminho válido, desde que o ar
 search_enabled: true                        ✅ (ativa o campo de busca no site)
 aux_links:                                  ✅ (adiciona links no topo direito)
   "GitHub Repository":
-    - "https://github.com/MecaChronos9461/Project-Daedalus"
+    - "https://github.com/MecaChronos9461/Project_Daedalus"
