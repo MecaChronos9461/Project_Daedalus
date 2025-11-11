@@ -11,5 +11,5 @@ Welcome! / Bem-vindo!
 
 **Choose your language / Escolha o idioma:**
 
-- 🇺🇸 [English version](en/index.md)
-- 🇧🇷 [Versão em português](pt/index.md)
+- 🇺🇸 [English version](docs/en/index.md)
+- 🇧🇷 [Versão em português](docs/pt/index.md)
