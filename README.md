@@ -1,7 +1,7 @@
 # Project_Daedalus
 
 
-# 🌍 Project Daedalus
+# 🌍 Project Daedalus - Projeto Dédalo
 
 Welcome! / Bem-vindo!
 
