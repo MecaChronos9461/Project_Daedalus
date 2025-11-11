@@ -1,7 +1,3 @@
----
-title: Language Selection
----
-
 # 🌍 Project Daedalus
 
 Welcome! / Bem-vindo!
