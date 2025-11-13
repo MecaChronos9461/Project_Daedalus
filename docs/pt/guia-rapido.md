@@ -7,7 +7,7 @@
    [📂 STL](https://github.com/MecaChronos9461/Project_Daedalus/tree/main/STL/pt)
 
 2. **Baixe os arquivos do tabuleiro:**  
-   [📂 DWG](https://github.com/MecaChronos9461/Project_Daedalus/tree/main/DWG/pt)
+   [📂 DWG](https://github.com/MecaChronos9461/Project_Daedalus/tree/main/SVG/pt)
 
 3. **Monte o tabuleiro imantado e as peças em Braille:**  
    [🧩 Guia de Montagem Mecânica](https://github.com/MecaChronos9461/Project-Daedalus/tree/main/Fabrication_Files/Tabuleiro)
