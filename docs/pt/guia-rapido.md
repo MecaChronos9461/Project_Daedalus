@@ -4,7 +4,7 @@
    [GitHub - Projeto Dédalo](https://github.com/MecaChronos9461/Project-Daedalus)
 
 2. **Baixe os arquivos 3D:**  
-   [📂 STL e Modelos Editáveis](https://github.com/MecaChronos9461/Project-Daedalus/tree/main/pt/STL/Pecas_GCODE)
+   [📂 STL e Modelos Editáveis](https://github.com/MecaChronos9461/Project_Daedalus/tree/main/STL/pt/Pecas_GCODE)
 
 3. **Monte o tabuleiro imantado e as peças em Braille:**  
    [🧩 Guia de Montagem Mecânica](https://github.com/MecaChronos9461/Project-Daedalus/tree/main/Fabrication_Files/Tabuleiro)
