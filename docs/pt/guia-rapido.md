@@ -1,7 +1,7 @@
 ## 🧭 Guia Rápido
 
 1. **Acesse o repositório principal:**  
-   [GitHub - Projeto Dédalo](https://github.com/MecaChronos9461/Project-Daedalus)
+   [GitHub - Projeto Dédalo](https://github.com/MecaChronos9461/Project_Daedalus)
 
 2. **Baixe os arquivos 3D:**  
    [📂 STL](https://github.com/MecaChronos9461/Project_Daedalus/tree/main/STL/pt)
