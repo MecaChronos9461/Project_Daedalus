@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="594.021mm" height="420.031mm"
+ viewBox="0 0 7016 4961"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<defs>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="12" font-weight="400" font-style="normal" 
+>
+<rect x="0" y="0" width="7016" height="4961"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="12" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="12" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="5" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="12" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="4774.81,4421.66 4774.65,4427.84 4774.16,4434.01 4773.36,4440.14 4772.23,4446.22 4770.79,4452.23 4769.03,4458.16 4766.97,4463.99 4764.6,4469.7 4761.94,4475.28 4758.99,4480.72 4755.76,4485.99 4752.25,4491.09 4748.49,4495.99 4744.47,4500.69 4740.22,4505.18 4735.73,4509.44 4731.03,4513.45 4726.12,4517.22 4721.03,4520.72 4715.75,4523.95 4710.32,4526.9 4704.74,4529.56 4699.03,4531.93 4693.2,4533.99 4687.27,4535.75 4681.25,4537.19 4675.17,4538.32 4669.04,4539.13 4662.88,4539.61 4656.7,4539.77 " />
+<polyline fill="none" vector-effect="none" points="4774.81,4421.66 4774.81,523.882 " />
+<polyline fill="none" vector-effect="none" points="4774.81,523.882 4774.65,517.701 4774.16,511.536 4773.36,505.405 4772.23,499.325 4770.79,493.312 4769.03,487.383 4766.97,481.554 4764.6,475.841 4761.94,470.26 4758.99,464.825 4755.76,459.553 4752.25,454.456 4748.49,449.551 4744.47,444.848 4740.22,440.363 4735.73,436.106 4731.03,432.09 4726.12,428.326 4721.03,424.823 4715.75,421.592 4710.32,418.642 4704.74,415.979 4699.03,413.613 4693.2,411.549 4687.27,409.793 4681.25,408.349 4675.17,407.222 4669.04,406.415 4662.88,405.93 4656.7,405.768 " />
+<polyline fill="none" vector-effect="none" points="4656.7,405.768 1940.06,405.768 " />
+<polyline fill="none" vector-effect="none" points="1821.95,523.882 1822.11,517.701 1822.6,511.536 1823.4,505.405 1824.53,499.325 1825.97,493.312 1827.73,487.383 1829.8,481.554 1832.16,475.841 1834.82,470.26 1837.77,464.825 1841.01,459.553 1844.51,454.456 1848.27,449.551 1852.29,444.848 1856.54,440.363 1861.03,436.106 1865.73,432.09 1870.64,428.326 1875.73,424.823 1881.01,421.592 1886.44,418.642 1892.02,415.979 1897.74,413.613 1903.57,411.549 1909.49,409.793 1915.51,408.349 1921.59,407.222 1927.72,406.415 1933.88,405.93 1940.06,405.768 " />
+<polyline fill="none" vector-effect="none" points="1821.95,523.882 1821.95,4421.66 " />
+<polyline fill="none" vector-effect="none" points="1821.95,4421.66 1822.11,4427.84 1822.6,4434.01 1823.4,4440.14 1824.53,4446.22 1825.97,4452.23 1827.73,4458.16 1829.8,4463.99 1832.16,4469.7 1834.82,4475.28 1837.77,4480.72 1841.01,4485.99 1844.51,4491.09 1848.27,4495.99 1852.29,4500.69 1856.54,4505.18 1861.03,4509.44 1865.73,4513.45 1870.64,4517.22 1875.73,4520.72 1881.01,4523.95 1886.44,4526.9 1892.02,4529.56 1897.74,4531.93 1903.57,4533.99 1909.49,4535.75 1915.51,4537.19 1921.59,4538.32 1927.72,4539.13 1933.88,4539.61 1940.06,4539.77 " />
+<polyline fill="none" vector-effect="none" points="1940.06,4539.77 4656.7,4539.77 " />
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="12" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+</svg>
