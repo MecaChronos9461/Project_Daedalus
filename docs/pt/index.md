@@ -14,7 +14,7 @@ Permite que estudantes cegos ou com baixa visão construam programas CNC utiliza
 
 ## 🧩 Guia Rápido
 1. Acesse o [Guia Rápido](guia-rapido.md)
-2. Baixe e imprima as peças 3D da pasta [`/stl`](https://drive.google.com/drive/u/0/folders/17rKae9Ocwfo4RXUzhV4-h_oCm1G7807P)  
+2. Baixe e imprima as peças 3D da pasta [`/stl`]([https://drive.google.com/drive/u/0/folders/17rKae9Ocwfo4RXUzhV4-h_oCm1G7807P](https://github.com/MecaChronos9461/Project_Daedalus/tree/main/STL/pt))  
 7. Monte o **tabuleiro imantado e as peças em Braille** (veja [Montagem Mecânica](secao-06_montagem-mecanica.md))  
 
 ## 🔗 Links Úteis
