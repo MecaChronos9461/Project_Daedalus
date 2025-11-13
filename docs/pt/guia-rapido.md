@@ -10,7 +10,7 @@
    [📂 DWG](https://github.com/MecaChronos9461/Project_Daedalus/tree/main/SVG/pt)
 
 3. **Monte o tabuleiro imantado e as peças em Braille:**  
-   [🧩 Guia de Montagem Mecânica](https://github.com/MecaChronos9461/Project-Daedalus/tree/main/Fabrication_Files/Tabuleiro)
+   [🧩 Guia de Montagem Mecânica](https://github.com/MecaChronos9461/Project_Daedalus/blob/main/docs/pt/Projeto_Dedalo_Montagem.pdf)
 
 4. **Assista aos tutoriais e veja como editar as peças:**  
    [🎥 Vídeos no YouTube](https://www.youtube.com/@FRC9461MecaChronos)
