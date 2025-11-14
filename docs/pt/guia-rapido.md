@@ -16,4 +16,4 @@
    [🎥 Vídeos no YouTube](https://www.youtube.com/@FRC9461MecaChronos)
 
 5. **Consulte os manuais e relatórios:**  
-   [📘 Documentação Completa (PDF)](https://github.com/MecaChronos9461/Project-Daedalus/tree/main/Docs_Publicos/Manuais_PDF)
+   [📘 Documentação Completa (PDF)](https://github.com/MecaChronos9461/Project_Daedalus/tree/main/docs/pt/desenhos_CAD)
